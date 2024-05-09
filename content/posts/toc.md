@@ -4,7 +4,7 @@ date = "2022-01-02"
 +++
 
 
-![I am DEADPOOL](../../static/deadpool.jpg
+![I am DEADPOOL](../../static/deadpool.jpg)
 
 
 
