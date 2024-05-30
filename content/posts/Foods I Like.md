@@ -15,3 +15,5 @@ tags = ["food"]
 - Flavoured Roasted Gram
 - Flavoured Makhana, ex : Mr. Makhana
 
+## Street Foods
+- Maggi/Noodles (ofc)
