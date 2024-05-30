@@ -7,13 +7,13 @@ tags = ["food"]
 +++
 
 
-## Beverage
+### Beverage
 - Coconut Water
 - Buttermilk n Lassi
 
-## Snacks
+### Snacks
 - Flavoured Roasted Gram
 - Flavoured Makhana, ex : Mr. Makhana
 
-## Street Foods
+### Street Foods
 - Maggi/Noodles (ofc)
